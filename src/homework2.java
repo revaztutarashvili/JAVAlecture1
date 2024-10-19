@@ -12,7 +12,6 @@ public class homework2 { // this code calculate pithagora's theorema a2+b2=c2
         System.out.print("please input b: ");
         int inputB = input.nextInt();
         int frstData = (inputA * inputA) + (inputB * inputB);
-        int scndData = inputB * inputB;
         double fesvi = Math.sqrt(frstData);
         System.out.println("fesvi aris: " + fesvi);
 
