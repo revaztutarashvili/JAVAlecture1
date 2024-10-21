@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/**
+*this code make triangle
+**/
 public class hmWork5 {
     public static void main (String[] args) {
         for(int i=1; i<=6; i++) {
