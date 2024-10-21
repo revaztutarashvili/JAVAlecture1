@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // this code calculate: X+Y-Z
-public class easyMath {
+public class hmWork1 {
     public static void main(String[] args) {
         Scanner scannerinput = new Scanner(System.in);
         System.out.print("please input X: ");

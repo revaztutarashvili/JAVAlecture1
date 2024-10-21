@@ -4,7 +4,7 @@ import java.util.Scanner;
  * ეს კოდი მოკლედ ითვლის ფითაგორას თეორემას, რომლის მიხედვითაც ჰიპოთენუზა უდრის კათეტების კვადრატების ჯამიდან ამოღებულ ფესვს
  *
  */
-public class homework2 { // this code calculate pithagora's theorema a2+b2=c2
+public class hmWork2 { // this code calculate pithagora's theorema a2+b2=c2
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("please input A: ");
